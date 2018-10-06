@@ -9,8 +9,8 @@ public class DominoPiling50A {
         int n = scanner.nextInt();
         if (m >= 1 && n >= m && n <= 16)
             System.out.println((m * n) / 2);
-        //Square and rectangle space (length * Width)
-        //Square and rectangle Size or block (length * width) *Height
+        //TODO Square and rectangle space (length * Width)
+        //TODO Square and rectangle Size or block (length * width) *Height
 
     }
 }

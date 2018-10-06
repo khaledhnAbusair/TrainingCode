@@ -15,4 +15,28 @@ public class PetyaAndStrings112A {
         else
             System.out.println("0");
     }
+
+    public static void mainTwo(String[] args) {
+        //TODO Another solution
+        Scanner sc = new Scanner(System.in);
+        String a = sc.next().toLowerCase();
+        String b = sc.next().toLowerCase();
+
+        if (a.equals(b)) {
+            System.out.println("0");
+        } else {
+            for (int i = 0; i < a.length(); i++) {
+                if ((int) a.charAt(i) > (int) b.charAt(i)) {
+                    System.out.println("1");
+                    break;
+                } else if ((int) a.charAt(i) == (int) b.charAt(i))
+                    continue;
+                else {
+                    System.out.println("-1");
+                    break;
+                }
+            }
+        }
+
+    }
 }

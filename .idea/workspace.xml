@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75e4846d-5b8e-4ba8-837a-51683176d4f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/HelpfulMaths339A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/HelpfulMaths339A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/HelpfulMaths339A.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,7 +79,7 @@
           <entry key="java" value="4913" />
           <entry key="kt" value="1" />
           <entry key="md" value="41" />
-          <entry key="txt" value="243" />
+          <entry key="txt" value="247" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -87,18 +87,18 @@
           <entry key="JAVA" value="4913" />
           <entry key="Kotlin" value="1" />
           <entry key="Markdown" value="41" />
-          <entry key="PLAIN_TEXT" value="245" />
+          <entry key="PLAIN_TEXT" value="249" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="42" />
+          <entry key="java" value="43" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="43" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
@@ -109,17 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/HelpfulMaths339A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/abusair/training/datastracture/sort/SelectionSorting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="204">
+              <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -298,19 +289,6 @@
               <item name="codeforceexample" type="1f31426a:PackageElementNode" />
               <item name="levelA" type="1f31426a:PackageElementNode" />
             </path>
-            <path>
-              <item name="TrainingCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DSAUdemy" type="616d4139:PackageViewModuleNode" />
-              <item name="com.abusair.training" type="1f31426a:PackageElementNode" />
-              <item name="datastracture" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="TrainingCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DSAUdemy" type="616d4139:PackageViewModuleNode" />
-              <item name="com.abusair.training" type="1f31426a:PackageElementNode" />
-              <item name="datastracture" type="1f31426a:PackageElementNode" />
-              <item name="sort" type="1f31426a:PackageElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -367,7 +345,7 @@
     <property name="SearchEverywhereHistoryKey" value="Stack&#9;PSI&#9;JAVA://com.ds.StackArray" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538825757111" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538825807399" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="D:/worksapceJava/spring-toutrial-udemy/springmvc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -496,7 +474,7 @@
       <workItem from="1538207197149" duration="1793000" />
       <workItem from="1538209060001" duration="7993000" />
       <workItem from="1538236715411" duration="11397000" />
-      <workItem from="1538809531699" duration="13871000" />
+      <workItem from="1538809531699" duration="14649000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1537603480489</created>
@@ -617,17 +595,24 @@
       <option name="project" value="LOCAL" />
       <updated>1538822804759</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Solve HelpfulMaths 339A problem in codeForces">
+      <created>1538825830416</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1538825830416</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69588000" />
+    <option name="totallyTimeSpent" value="70366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49492386" visible="true" weight="0.19894099" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49492386" visible="true" weight="0.19894099" />
       <window_info id="Structure" order="1" sideWeight="0.50507617" side_tool="true" weight="0.19894099" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -710,28 +695,19 @@
     <MESSAGE value="Solve Football 96A problem in codeForces" />
     <MESSAGE value="Solve PetyaAndStrings 112A problem in codeForces" />
     <MESSAGE value="add another solutions to Solve PetyaAndStrings 112A problem in codeForces" />
-    <option name="LAST_COMMIT_MESSAGE" value="add another solutions to Solve PetyaAndStrings 112A problem in codeForces" />
+    <MESSAGE value="Solve HelpfulMaths 339A problem in codeForces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve HelpfulMaths 339A problem in codeForces" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/HelpfulMaths339A.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-      </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-    </breakpoint-manager>
-  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Integer.valueOf(arr[j])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>Integer.valueOf(split[j])</expression-string>
         <language-id>JAVA</language-id>
@@ -769,11 +745,6 @@
       </expression>
       <expression>
         <expression-string>array[i]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>array[i].equalsIgnoreCase(array[i - 1]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -1084,8 +1055,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/HelpfulMaths339A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        <state relative-caret-position="204">
+          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="58" />
         </state>
       </provider>
     </entry>

@@ -8,7 +8,6 @@ public class HelpfulMaths339A {
         String input = scanner.nextLine();
         String[] arr = input.split("\\+");
         if (input.contains("+")) {
-
             for (int i = 0; i < arr.length - 1; i++) {
                 int index = i;
                 for (int j = i + 1; j < arr.length; j++) {

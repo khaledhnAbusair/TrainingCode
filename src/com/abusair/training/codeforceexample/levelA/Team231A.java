@@ -1,4 +1,4 @@
-package com.abusair.training.codeforceexample;
+package com.abusair.training.codeforceexample.levelA;
 
 
 import java.util.HashMap;

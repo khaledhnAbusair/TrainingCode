@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75e4846d-5b8e-4ba8-837a-51683176d4f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BoyOrGirl236A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/LuckyDivision122A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -76,29 +76,29 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="5560" />
+          <entry key="java" value="6092" />
           <entry key="kt" value="1" />
           <entry key="md" value="41" />
-          <entry key="txt" value="301" />
+          <entry key="txt" value="304" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5560" />
+          <entry key="JAVA" value="6092" />
           <entry key="Kotlin" value="1" />
           <entry key="Markdown" value="41" />
-          <entry key="PLAIN_TEXT" value="303" />
+          <entry key="PLAIN_TEXT" value="306" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="49" />
+          <entry key="java" value="50" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="49" />
+          <entry key="JAVA" value="50" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
@@ -107,10 +107,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BoyOrGirl236A.java">
+        <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/LuckyDivision122A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="340">
+              <caret line="26" column="42" lean-forward="true" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -146,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ds/LinkedListD.java" />
         <option value="$PROJECT_DIR$/src/com/ds/LinkedListU.java" />
         <option value="$PROJECT_DIR$/src/com/tree/BST.java" />
         <option value="$PROJECT_DIR$/src/com/graph/BFSGraph.java" />
@@ -196,6 +195,8 @@
         <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/StonesOnTheTable266A.java" />
         <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/WordCapitalization281A.java" />
         <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BoyOrGirl236A.java" />
+        <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/LuckyDivision122A.kt" />
+        <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/LuckyDivision122A.java" />
       </list>
     </option>
   </component>
@@ -356,7 +357,7 @@
     <property name="SearchEverywhereHistoryKey" value="Stack&#9;PSI&#9;JAVA://com.ds.StackArray" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539537842878" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539541244671" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="D:/worksapceJava/spring-toutrial-udemy/springmvc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -385,7 +386,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BoyOrGirl236A">
+  <component name="RunManager" selected="Application.LuckyDivision122A">
     <configuration name="BoyOrGirl236A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abusair.training.codeforceexample.levelA.BoyOrGirl236A" />
       <module name="TrainingCode" />
@@ -399,9 +400,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelpfulMaths339A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abusair.training.codeforceexample.levelA.HelpfulMaths339A" />
-      <module name="DSAUdemy" />
+    <configuration name="LuckyDivision122A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abusair.training.codeforceexample.levelA.LuckyDivision122A" />
+      <module name="TrainingCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.abusair.training.codeforceexample.levelA.*" />
@@ -452,19 +453,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelpfulMaths339A" />
       <item itemvalue="Application.StonesOnTheTable266A" />
       <item itemvalue="Application.WordCapitalization281A" />
       <item itemvalue="Application.Tram116A" />
       <item itemvalue="Application.BoyOrGirl236A" />
+      <item itemvalue="Application.LuckyDivision122A" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LuckyDivision122A" />
         <item itemvalue="Application.BoyOrGirl236A" />
         <item itemvalue="Application.Tram116A" />
         <item itemvalue="Application.WordCapitalization281A" />
         <item itemvalue="Application.StonesOnTheTable266A" />
-        <item itemvalue="Application.HelpfulMaths339A" />
       </list>
     </recent_temporary>
   </component>
@@ -634,18 +635,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539536676600</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="solve BoyOrGirl 236A in codeForces">
+      <created>1539537865260</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1539537865260</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73844000" />
+    <option name="totallyTimeSpent" value="77121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49492386" visible="true" weight="0.29727685" />
-      <window_info id="Structure" order="1" sideWeight="0.50507617" side_tool="true" weight="0.19894099" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.492569" visible="true" weight="0.29727685" />
+      <window_info id="Structure" order="1" sideWeight="0.507431" side_tool="true" weight="0.29727685" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -730,13 +738,29 @@
     <MESSAGE value="Solve HelpfulMaths 339A problem in codeForces" />
     <MESSAGE value="Solve StonesOnTheTable 266A problem in codeForces" />
     <MESSAGE value="solve charRoom problem 58A in codeForces" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve charRoom problem 58A in codeForces" />
+    <MESSAGE value="solve BoyOrGirl 236A in codeForces" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve BoyOrGirl 236A in codeForces" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>input/luck[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>result</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>input / luck[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>Character.toUpperCase(i)</expression-string>
         <language-id>JAVA</language-id>
@@ -767,31 +791,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>input.split(&quot;\\+&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>input.split(&quot;//+&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>v.equalsIgnoreCase(array[i])</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/datastracture/sort/BubbleSorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-158">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abusair/training/datastracture/sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1089,8 +1091,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BoyOrGirl236A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/LuckyDivision122A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="42" lean-forward="true" selection-end-line="40" />
         </state>
       </provider>
     </entry>

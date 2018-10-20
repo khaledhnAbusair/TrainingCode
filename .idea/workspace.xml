@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75e4846d-5b8e-4ba8-837a-51683176d4f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/CapsLock131A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/Twins160A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrainingCode/com/abusair/training/codeforceexample/levelA/HQ9133A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingCode/com/abusair/training/codeforceexample/levelA/HQ9133A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingCode/com/abusair/training/codeforceexample/Nothing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingCode/com/abusair/training/codeforceexample/Nothing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrainingCode/com/abusair/training/codeforceexample/levelA/CapsLock131A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrainingCode/com/abusair/training/codeforceexample/levelA/CapsLock131A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/Nothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/Nothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abusair/training/datastracture/sort/SelectionSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abusair/training/datastracture/sort/SelectionSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abusair/training/hackerrank/MinMaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abusair/training/hackerrank/MinMaxArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,30 +82,30 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="2" />
-          <entry key="java" value="6079" />
+          <entry key="java" value="6572" />
           <entry key="kt" value="1" />
           <entry key="md" value="41" />
-          <entry key="txt" value="301" />
+          <entry key="txt" value="310" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6079" />
+          <entry key="JAVA" value="6572" />
           <entry key="Kotlin" value="1" />
           <entry key="Markdown" value="41" />
-          <entry key="PLAIN_TEXT" value="303" />
+          <entry key="PLAIN_TEXT" value="312" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="50" />
+          <entry key="java" value="61" />
           <entry key="md" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="50" />
+          <entry key="JAVA" value="61" />
           <entry key="Markdown" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -111,10 +115,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/CapsLock131A.java">
+        <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/Twins160A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="42" column="59" selection-end-line="48" />
+            <state relative-caret-position="68">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/abusair/training/datastracture/sort/SelectionSorting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -151,8 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/ds/LinkedListD.java" />
-        <option value="$PROJECT_DIR$/src/com/ds/LinkedListU.java" />
         <option value="$PROJECT_DIR$/src/com/tree/BST.java" />
         <option value="$PROJECT_DIR$/src/com/graph/BFSGraph.java" />
         <option value="$PROJECT_DIR$/src/com/sort/HeapSort.java" />
@@ -202,6 +213,8 @@
         <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/WordCapitalization281A.java" />
         <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BoyOrGirl236A.java" />
         <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/CapsLock131A.java" />
+        <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/Nothing.java" />
+        <option value="$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/Twins160A.java" />
       </list>
     </option>
   </component>
@@ -342,15 +355,15 @@
               <item name="TrainingCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforceexample" type="462c0819:PsiDirectoryNode" />
+              <item name="datastracture" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TrainingCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="TrainingCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
-              <item name="codeforceexample" type="462c0819:PsiDirectoryNode" />
-              <item name="levelA" type="462c0819:PsiDirectoryNode" />
+              <item name="datastracture" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -362,7 +375,7 @@
     <property name="SearchEverywhereHistoryKey" value="Stack&#9;PSI&#9;JAVA://com.ds.StackArray" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539954276660" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540025952934" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="D:/worksapceJava/spring-toutrial-udemy/springmvc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -391,7 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CapsLock131A">
+  <component name="RunManager" selected="Application.Twins160A">
     <configuration name="BoyOrGirl236A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abusair.training.codeforceexample.levelA.BoyOrGirl236A" />
       <module name="TrainingCode" />
@@ -418,12 +431,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StonesOnTheTable266A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abusair.training.codeforceexample.levelA.StonesOnTheTable266A" />
-      <module name="DSAUdemy" />
+    <configuration name="Nothing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abusair.training.codeforceexample.Nothing" />
+      <module name="TrainingCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abusair.training.codeforceexample.levelA.*" />
+          <option name="PATTERN" value="com.abusair.training.codeforceexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,9 +457,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordCapitalization281A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abusair.training.codeforceexample.levelA.WordCapitalization281A" />
-      <module name="DSAUdemy" />
+    <configuration name="Twins160A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abusair.training.codeforceexample.levelA.Twins160A" />
+      <module name="TrainingCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.abusair.training.codeforceexample.levelA.*" />
@@ -458,19 +471,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StonesOnTheTable266A" />
-      <item itemvalue="Application.WordCapitalization281A" />
       <item itemvalue="Application.Tram116A" />
       <item itemvalue="Application.BoyOrGirl236A" />
       <item itemvalue="Application.CapsLock131A" />
+      <item itemvalue="Application.Nothing" />
+      <item itemvalue="Application.Twins160A" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Twins160A" />
+        <item itemvalue="Application.Nothing" />
         <item itemvalue="Application.CapsLock131A" />
         <item itemvalue="Application.BoyOrGirl236A" />
         <item itemvalue="Application.Tram116A" />
-        <item itemvalue="Application.WordCapitalization281A" />
-        <item itemvalue="Application.StonesOnTheTable266A" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +505,7 @@
       <workItem from="1538209060001" duration="7993000" />
       <workItem from="1538236715411" duration="11397000" />
       <workItem from="1538809531699" duration="16951000" />
-      <workItem from="1539952665576" duration="1468000" />
+      <workItem from="1539952665576" duration="4307000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1537603480489</created>
@@ -641,11 +654,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539536676600</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="solve CapsLock 131A in codeForces">
+      <created>1539954403726</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1539954403726</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76280000" />
+    <option name="totallyTimeSpent" value="79119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -737,25 +757,34 @@
     <MESSAGE value="Solve HelpfulMaths 339A problem in codeForces" />
     <MESSAGE value="Solve StonesOnTheTable 266A problem in codeForces" />
     <MESSAGE value="solve charRoom problem 58A in codeForces" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve charRoom problem 58A in codeForces" />
+    <MESSAGE value="solve CapsLock 131A in codeForces" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve CapsLock 131A in codeForces" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/CapsLock131A.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>coins[index]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>coins[j]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>coins[j] &lt; coins[index]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>coins[i + 1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>input.length()</expression-string>
         <language-id>JAVA</language-id>
@@ -781,43 +810,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>split</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>split.length</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>input.split(&quot;\\+&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>input.split(&quot;//+&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/amazonexample/Digits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/amazonexample/knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-556">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abusair/training/amazonexample/PushZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -949,13 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/WayTooLongWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/StringTask118A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -971,13 +959,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/Nothing.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/Nothing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/NextRound158A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -992,13 +973,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/DominoPiling50A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BitPlusPlus282A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1010,20 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/PetyaAndStrings112A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/datastracture/sort/SelectionSorting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1048,27 +1008,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BeautifulMatrix263A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/ChatRoom58A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/Tram116A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -1079,13 +1018,6 @@
             <element signature="e#82971#82972#0" expanded="true" />
             <element signature="e#83020#83021#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BoyOrGirl236A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1103,8 +1035,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/CapsLock131A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="42" column="59" selection-end-line="48" />
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/Nothing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/PetyaAndStrings112A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BeautifulMatrix263A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/WayTooLongWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/Tram116A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/LuckyDivision122A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-354">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/DominoPiling50A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/ChatRoom58A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/BoyOrGirl236A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/datastracture/sort/SelectionSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/abusair/training/codeforceexample/levelA/Twins160A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>

@@ -14,9 +14,10 @@ public class BoyOrGirl236A {
                     result.append(arr[i]);
             }
         }
-
+        scanner.close();
         if (result.length() % 2 == 0)
             System.out.println("CHAT WITH HER!");
         else System.out.println("IGNORE HIM!");
+        
     }
 }

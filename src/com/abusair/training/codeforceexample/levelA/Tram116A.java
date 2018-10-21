@@ -19,6 +19,7 @@ public class Tram116A {
 
         }
         System.out.println(capacity);
+        scanner.close();
 
     }
 }

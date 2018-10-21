@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class LuckyDivision122A {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int input = sc.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        int input = scanner.nextInt();
 
         String str = String.valueOf(input);
 
@@ -17,6 +17,7 @@ public class LuckyDivision122A {
             System.out.println("YES");
         else
             System.out.println("NO");
+        scanner.close();
     }
 
     private static boolean almost(int x) {

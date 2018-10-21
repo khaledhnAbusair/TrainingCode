@@ -21,5 +21,6 @@ public class BitPlusPlus282A {
 
         }
         System.out.println(result);
+        scanner.close();
     }
 }

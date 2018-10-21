@@ -27,7 +27,7 @@ public class Football96A {
             }
             if (max < 7) System.out.println("NO");
         }
-
+        scanner.close();
     }
 /*
 * Another solutions

@@ -14,13 +14,15 @@ public class PetyaAndStrings112A {
             System.out.println("1");
         else
             System.out.println("0");
+        scanner.close();
+
     }
 
     public static void mainTwo(String[] args) {
         //TODO Another solution
-        Scanner sc = new Scanner(System.in);
-        String a = sc.next().toLowerCase();
-        String b = sc.next().toLowerCase();
+        Scanner scanner = new Scanner(System.in);
+        String a = scanner.next().toLowerCase();
+        String b = scanner.next().toLowerCase();
 
         if (a.equals(b)) {
             System.out.println("0");
@@ -37,6 +39,7 @@ public class PetyaAndStrings112A {
                 }
             }
         }
+        scanner.close();
 
     }
 }

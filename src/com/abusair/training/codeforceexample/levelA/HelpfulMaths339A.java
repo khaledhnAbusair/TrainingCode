@@ -27,5 +27,7 @@ public class HelpfulMaths339A {
             builder.deleteCharAt(builder.length() - 1);
             System.out.println(builder.toString());
         } else System.out.println(input);
+    
+        scanner.close();
     }
 }

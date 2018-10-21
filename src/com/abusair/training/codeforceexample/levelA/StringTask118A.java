@@ -14,5 +14,7 @@ public class StringTask118A {
             builder.append(".").append(i);
         }
         System.out.println(builder.toString());
+        scanner.close();
+
     }
 }

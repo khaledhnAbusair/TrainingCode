@@ -37,5 +37,6 @@ public class CapsLock131A {
                 else System.out.println(input.toLowerCase());
             }
         }
+        scanner.close();
     }
 }

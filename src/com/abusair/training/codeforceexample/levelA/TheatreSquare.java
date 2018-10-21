@@ -11,5 +11,7 @@ public class TheatreSquare {
         double a = scanner.nextInt();
         // System.out.println((long) (n + a - 1) / a * ((m + a - 1) / a));
         System.out.println((long) (Math.ceil(n / a) * Math.ceil(m / a)));
+        scanner.close();
+
     }
 }

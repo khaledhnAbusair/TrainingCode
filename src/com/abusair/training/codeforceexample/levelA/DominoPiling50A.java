@@ -11,6 +11,6 @@ public class DominoPiling50A {
             System.out.println((m * n) / 2);
         //TODO Square and rectangle space (length * Width)
         //TODO Square and rectangle Size or block (length * width) *Height
-
+        scanner.close();
     }
 }

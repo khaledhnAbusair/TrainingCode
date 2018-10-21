@@ -24,6 +24,7 @@ public class Twins160A {
                 k++;
         }
         System.out.println(k + 1);
+        scanner.close();
 
     }
 

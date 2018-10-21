@@ -36,6 +36,7 @@ public class Team231A {
             }
         }
         System.out.println(count);
+        scanner.close();
 
     }
 
@@ -56,5 +57,7 @@ public class Team231A {
                 problemCount++;
         }
         System.out.println(problemCount);
+        scanner.close();
+
     }
 }

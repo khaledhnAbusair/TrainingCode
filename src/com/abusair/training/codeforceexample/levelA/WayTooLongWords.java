@@ -20,6 +20,7 @@ public class WayTooLongWords {
                 System.out.println(arr[i].substring(0, 1) + ((inputLength - 1) - 1) + arr[i].substring(inputLength - 1, inputLength));
         }
 
+        scanner.close();
 
     }
 }

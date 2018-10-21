@@ -17,5 +17,7 @@ public class StonesOnTheTable266A {
             }
         }
         System.out.println(count);
+        scanner.close();
+
     }
 }

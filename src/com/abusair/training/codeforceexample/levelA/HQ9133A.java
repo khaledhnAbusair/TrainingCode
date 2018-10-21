@@ -9,5 +9,6 @@ public class HQ9133A {
         if (input.contains("H") || input.contains("Q") || input.contains("9"))
             System.out.println("YES");
         else System.out.println("NO");
+        scanner.close();
     }
 }

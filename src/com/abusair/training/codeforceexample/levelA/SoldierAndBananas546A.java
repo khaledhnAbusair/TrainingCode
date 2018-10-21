@@ -16,6 +16,8 @@ public class SoldierAndBananas546A {
         for (int i = 1; i < w + 1; i++)
             sum += k * i;
         System.out.println(sum - n < 0 ? 0 : sum - n);
+        scanner.close();
+
 
     }
 }

@@ -24,7 +24,8 @@ public class Translation41A {
 				System.out.println("YES");
 			else
 				System.out.println("NO");
-		}
+		}else
+			System.out.println("NO");
 		scanner.close();
 
 	}
